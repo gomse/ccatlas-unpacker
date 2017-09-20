@@ -19,7 +19,7 @@ $ pip install Pillow
 
 `test.plist` and `test.png`:
 ```sh
-$ ccplist2png.py {filename}
+$ ccplist2png.py test
 ```
 
 or `*.plist` of same directory:
